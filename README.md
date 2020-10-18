@@ -6,6 +6,7 @@ Get and search for trending images from Unsplash!
 ```bash
 $ cd /Users/user/my_project
 $ git clone https://github.com/TarokhDev2020/Unsplash-for-iOS.git
+$ pod install
 ```
 * Get your Client-ID from [Unsplash](https://unsplash.com/developers)
 * Go to UnsplashService.swift and replace your Client-ID
