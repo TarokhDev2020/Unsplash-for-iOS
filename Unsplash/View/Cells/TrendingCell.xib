@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="collection view cell content view" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="trendingCell" id="Z0a-TJ-Iup" customClass="TrendingCell" customModule="Unsplash" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="202" height="189"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="qCq-Kg-6LD">
+                <rect key="frame" x="0.0" y="0.0" width="202" height="189"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Y20-Lc-Alz">
+                        <rect key="frame" x="20" y="20" width="162" height="149"/>
+                    </imageView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="Y20-Lc-Alz" secondAttribute="trailing" constant="20" symbolic="YES" id="8sT-dZ-ivs"/>
+                    <constraint firstItem="Y20-Lc-Alz" firstAttribute="top" secondItem="qCq-Kg-6LD" secondAttribute="top" constant="20" symbolic="YES" id="9fM-sl-B4n"/>
+                    <constraint firstAttribute="bottom" secondItem="Y20-Lc-Alz" secondAttribute="bottom" constant="20" symbolic="YES" id="OJj-8h-CoA"/>
+                    <constraint firstItem="Y20-Lc-Alz" firstAttribute="leading" secondItem="qCq-Kg-6LD" secondAttribute="leading" constant="20" symbolic="YES" id="xxA-NR-Xnr"/>
+                </constraints>
+            </collectionViewCellContentView>
+            <size key="customSize" width="202" height="189"/>
+            <connections>
+                <outlet property="trendingImageView" destination="Y20-Lc-Alz" id="5WN-nM-9i6"/>
+            </connections>
+            <point key="canvasLocation" x="-84.057971014492765" y="124.88839285714285"/>
+        </collectionViewCell>
+    </objects>
+</document>

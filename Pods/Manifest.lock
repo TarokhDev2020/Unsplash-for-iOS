@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (5.2.2)
+  - Cache (5.3.0)
+  - CollectionViewWaterfallLayout (0.5.0)
+  - DZNEmptyDataSet (1.8.1)
+  - Imaginary (4.3.1):
+    - Cache (~> 5.3.0)
+  - JGProgressHUD (2.1)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - Lightbox (2.4.2):
+    - Imaginary (~> 4.3.1)
+  - Loaf (0.5.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - CollectionViewWaterfallLayout
+  - DZNEmptyDataSet
+  - JGProgressHUD
+  - Kingfisher
+  - Lightbox
+  - Loaf
+  - Moya
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cache
+    - CollectionViewWaterfallLayout
+    - DZNEmptyDataSet
+    - Imaginary
+    - JGProgressHUD
+    - Kingfisher
+    - Lightbox
+    - Loaf
+    - Moya
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  Cache: 48762993ec44e1d93483c4d4a13edd18452326f4
+  CollectionViewWaterfallLayout: 4399ba01be265fff4da1ed1d607130fe009780e4
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  Imaginary: 18c5bba364229eef383b925199db442e71d175e1
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  Lightbox: 8837c35c1150fa0410d94296e369b432d37f18c7
+  Loaf: 0800b444431366bc395d54267975d4ad4ad5c99c
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 7a5bf0048b10e8c880edb90a5d63cbc61438cbee
+
+COCOAPODS: 1.9.1
