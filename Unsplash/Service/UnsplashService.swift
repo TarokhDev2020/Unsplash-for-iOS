@@ -55,9 +55,9 @@ extension UnsplashService: TargetType {
     var task: Task {
         switch self {
         case .trending(let page):
-            return .requestParameters(parameters: ["client_id" : "fepwPzv9EyCx2qjsV7Pb1n_d9BkXCCPU-PPjF4VPVNU", "order_by": "latest", "page": page], encoding: URLEncoding.queryString)
+            return .requestParameters(parameters: ["client_id" : "YOUR CLIENT-ID", "order_by": "latest", "page": page], encoding: URLEncoding.queryString)
         case .search(let q):
-            return .requestParameters(parameters: ["client_id" : "fepwPzv9EyCx2qjsV7Pb1n_d9BkXCCPU-PPjF4VPVNU", "order_by" : "relevant", "query" : q], encoding: URLEncoding.queryString)
+            return .requestParameters(parameters: ["client_id" : "YOUR CLIENT-ID", "order_by" : "relevant", "query" : q], encoding: URLEncoding.queryString)
         }
     }
     
