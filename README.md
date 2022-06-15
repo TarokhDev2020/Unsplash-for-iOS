@@ -1,6 +1,11 @@
 # Unsplash-for-iOS
 Get and search for trending images from Unsplash!
 
+## Features
+* Get the latest trending images from Unsplash
+* Search functionality
+* Add and save your favorite image to your iPhone's photos
+
 ## Installation ##
 * Git and clone <br/>
 ```bash
