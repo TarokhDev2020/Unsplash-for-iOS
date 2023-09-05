@@ -46,19 +46,5 @@ $ pod install
 <img src="https://user-images.githubusercontent.com/72879576/96371873-d6a3cb00-1170-11eb-8093-eb88cc2f944c.png" alt="Unsplash for iOS" width="250"/>
 <img src="https://user-images.githubusercontent.com/72879576/96371875-d99ebb80-1170-11eb-8a4f-46d5b5f0211d.png" alt="Unsplash for iOS" width="250"/>
 
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
-  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
-  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
-  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
-</p>
-
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
-  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
-  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
-  <img src="https://user-images.githubusercontent.com/72879576/174015423-08b32566-3130-48d0-96ab-66c319fe8cd7.png" alt="DevConnector" width="350"/>
-</p>
-
 ## MIT License ##
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
